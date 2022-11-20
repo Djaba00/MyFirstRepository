@@ -1,4 +1,7 @@
 # MyFirstRepository
-My First Repository on GitHub
 
-**Let's check out what it is!**
+Данный репозиторий был создан в рамках обучения [С#-developer](https://skillfactory.ru/csharp).
+
+##The process of learning GitHub##
+
+
