@@ -1,3 +1,3 @@
-Новый файл
+merge conflict for awesome-feature
 
-Wrong merge for master branch
+merge conflict for master branch
